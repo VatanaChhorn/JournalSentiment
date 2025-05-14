@@ -1,0 +1,260 @@
+{
+  "feedbackMessages": {
+    "veryNegative": [
+      "I'm sorry to hear you're having such a difficult time. Remember that it's okay to feel this way, and these intense feelings will pass.",
+      "This sounds really challenging. Consider reaching out to someone you trust to talk through these feelings.",
+      "It seems like today has been extremely tough. Be gentle with yourself and remember that you've made it through difficult days before.",
+      "When things feel this overwhelming, even small acts of self-care can help. Maybe take a moment for yourself today.",
+      "I hear that you're going through a lot right now. Your feelings are valid, and tomorrow brings new possibilities.",
+      "These intense emotions you're experiencing are a natural response to difficult circumstances. Take things one step at a time.",
+      "It sounds like you're carrying a heavy emotional weight today. Remember that asking for help is a sign of strength, not weakness.",
+      "In moments of deep struggle, focusing on just getting through the next hour can be more manageable than thinking about the whole day.",
+      "Your journal entry reflects significant distress. Consider what small comfort might help you navigate this challenging moment.",
+      "Even in your darkest moments, you're still taking time to reflect and process—that shows remarkable resilience."
+    ],
+    "negative": [
+      "I'm sorry to hear you're having a rough time. Tomorrow is a new day with fresh opportunities.",
+      "It sounds like today had its challenges. Remember that difficult moments are temporary.",
+      "When things are tough, it can help to focus on small positives or things you're grateful for.",
+      "It's okay to have bad days. They help us appreciate the good ones even more.",
+      "Everyone faces setbacks. Your resilience will help you move forward from this.",
+      "Difficult days are part of everyone's journey. Your awareness of these feelings shows emotional intelligence.",
+      "This challenging experience is developing your inner strength, even though it doesn't feel good right now.",
+      "Sometimes writing about negative experiences helps create distance from them. You've taken that important step today.",
+      "It sounds like today didn't go as you hoped. Remember that this feeling is just one chapter, not the whole story.",
+      "The struggles you're documenting now may provide valuable insights when you look back later."
+    ],
+    "slightlyNegative": [
+      "I noticed a hint of frustration in your entry. Sometimes naming our feelings helps us process them better.",
+      "Even slightly challenging days deserve acknowledgment. Be kind to yourself tonight.",
+      "Small bumps in the road are part of life's journey. You're handling it well.",
+      "Tomorrow brings new opportunities and a fresh perspective on today's challenges.",
+      "Consider doing something small that brings you joy to shift your energy.",
+      "That subtle feeling of dissatisfaction can sometimes be a useful signal that something needs attention.",
+      "Minor setbacks often contain useful lessons if we take time to reflect on them.",
+      "It seems like today had some low points, but recognizing them is the first step toward improvement.",
+      "A bit of disappointment is natural when things don't go exactly as planned. You're responding thoughtfully.",
+      "Even on days with minor frustrations, you're still engaging with your experiences and documenting them."
+    ],
+    "neutral": [
+      "Thanks for taking time to record your thoughts today. Regular journaling helps build self-awareness.",
+      "Balanced days are good days too. You're building a valuable record of your experiences.",
+      "Sometimes the most ordinary days contain hidden insights when we reflect on them later.",
+      "Consistent journaling helps you notice patterns over time. Keep going!",
+      "Taking time to record your day shows commitment to your personal growth.",
+      "Neutral days provide balance in our lives. They give us space to breathe and reflect.",
+      "Even in the midst of routine, you're creating a meaningful record of your life's journey.",
+      "Today's entry adds another piece to the puzzle of your personal story.",
+      "Steady, even-keeled days build the foundation for a balanced life.",
+      "Your dedication to recording everyday moments demonstrates a commitment to mindfulness."
+    ],
+    "slightlyPositive": [
+      "I'm catching some positive energy in your entry! Notice what's going well and savor those moments.",
+      "There's a hint of optimism in your words today. That's something to build on!",
+      "Small positive moments add up to a fulfilling life. You're noticing what matters.",
+      "It seems like things are looking up. Carry this energy into tomorrow!",
+      "Even slightly good days are worth celebrating. What made today special?",
+      "That touch of positivity in your entry is like a small seed that can grow with attention.",
+      "Recognizing these modest pleasures is a skill that enhances wellbeing over time.",
+      "Subtle positive emotions often contain rich information about what truly matters to you.",
+      "Your entry has a gentle warmth to it. These small positive moments are worth savoring.",
+      "There's a quiet contentment in your words today. These moments of peace are valuable."
+    ],
+    "positive": [
+      "That's wonderful! Your positive energy comes through clearly in your writing.",
+      "Great to see you had such a good day! Remember this feeling when challenges arise.",
+      "Your positive outlook is inspiring. These are the moments that make life meaningful.",
+      "It sounds like today brought you joy. Savor these good feelings!",
+      "You're radiating positivity! These entries will be wonderful to look back on later.",
+      "What a refreshing boost of positivity! Your words convey a genuine sense of satisfaction.",
+      "Your entry captures the kind of day that reminds us why life is beautiful.",
+      "The happiness in your writing is palpable. These moments of joy are treasures.",
+      "Today's positive experiences are building blocks for your overall wellbeing.",
+      "Your optimistic perspective shines through in this entry. It's infectious in the best way."
+    ],
+    "veryPositive": [
+      "Wow! Your enthusiasm is contagious. These peak moments are treasures to remember.",
+      "This is amazing! Hold onto this exceptional feeling and let it energize you.",
+      "What a fantastic day! Your joy leaps off the page. This is worth celebrating!",
+      "These extraordinary moments define our lives. I'm so glad you captured this feeling.",
+      "Incredible! Your happiness shines through your words. These memories are precious.",
+      "Your entry radiates pure delight! This level of joy deserves to be fully cherished.",
+      "The exuberance in your writing today is truly magnificent to witness.",
+      "What an exceptional emotional high! Remember to capture every detail of this feeling.",
+      "Your happiness has reached remarkable heights today. This is the kind of moment that sustains us.",
+      "The profound joy captured in your entry today represents life at its most vibrant and meaningful."
+    ]
+  },
+  "affirmations": {
+    "veryNegative": [
+      "This intensity will pass. You are stronger than you know.",
+      "You've weathered storms before, and you'll make it through this one too.",
+      "Your feelings are valid, even the difficult ones.",
+      "One moment at a time. That's all you need to focus on right now.",
+      "You are not alone, even when it feels that way.",
+      "Deep pain can't last forever. This moment is not your forever.",
+      "You have survived 100% of your worst days so far. You will survive this too.",
+      "Your courage in facing these difficult feelings is remarkable.",
+      "Even in darkness, you're still moving forward by acknowledging how you feel.",
+      "The fact that you're still reflecting and writing shows incredible inner strength."
+    ],
+    "negative": [
+      "You have the strength to overcome this challenge.",
+      "Every experience, even difficult ones, helps you grow.",
+      "This feeling is temporary. Better days are ahead.",
+      "Your resilience will carry you through this moment.",
+      "You've bounced back before, and you will again.",
+      "Each step forward, no matter how small, still counts as progress.",
+      "Difficult emotions are messengers, not permanent residents.",
+      "You're handling today with more wisdom than you realize.",
+      "Your ability to face adversity is growing stronger with each challenge.",
+      "This struggle doesn't define you; your response to it does."
+    ],
+    "slightlyNegative": [
+      "Small setbacks don't define your journey.",
+      "You're handling life's challenges with grace.",
+      "Tomorrow brings new possibilities and perspectives.",
+      "You're doing better than you think you are.",
+      "Progress isn't always linear, and that's okay.",
+      "Minor obstacles help build your problem-solving muscles.",
+      "These small frustrations are teaching you valuable patience.",
+      "Your awareness of these feelings shows emotional intelligence.",
+      "Even on days with minor struggles, you're still moving forward.",
+      "The way you navigate these small challenges shapes your character."
+    ],
+    "neutral": [
+      "Each day of journaling builds your self-awareness.",
+      "Consistency is a superpower. You're developing it.",
+      "You're creating a meaningful record of your life.",
+      "Neutral days are necessary parts of a balanced life.",
+      "You're present and paying attention to your life. That matters.",
+      "Your commitment to reflection is a gift to your future self.",
+      "Balance and stability provide the foundation for growth.",
+      "The simple act of documenting your day is powerful.",
+      "You're developing deeper awareness with each entry you write.",
+      "Steady attention to your inner experience builds wisdom over time."
+    ],
+    "slightlyPositive": [
+      "You're finding brightness in everyday moments.",
+      "Your ability to notice small joys enriches your life.",
+      "You're on an upward trajectory. Keep going!",
+      "These small positive moments compound over time.",
+      "Your perspective helps you find light even in ordinary days.",
+      "Your attention to subtle positives is nurturing your wellbeing.",
+      "The way you notice small pleasures shows emotional intelligence.",
+      "You're cultivating happiness by acknowledging these moments.",
+      "Each positive experience you recognize strengthens your capacity for joy.",
+      "Your appreciation for these modest pleasures reveals true wisdom."
+    ],
+    "positive": [
+      "Your positive energy creates more good in your life.",
+      "You deserve these good feelings and experiences.",
+      "Your joy is contagious and lifts those around you.",
+      "You're creating a life filled with meaningful moments.",
+      "Your positive outlook opens doors to new opportunities.",
+      "This happiness is not just luck—it reflects your choices and perspective.",
+      "You've cultivated the ability to recognize and appreciate good things.",
+      "Your positive mindset attracts more experiences worth celebrating.",
+      "The joy you feel today is something you've helped create.",
+      "Your capacity for happiness is a strength worth acknowledging."
+    ],
+    "veryPositive": [
+      "This exceptional joy is something to treasure and remember.",
+      "You're living life to its fullest potential right now.",
+      "Your capacity for happiness and gratitude is inspiring.",
+      "These peak moments shape who you are becoming.",
+      "You're not just experiencing life—you're thriving in it.",
+      "This extraordinary happiness reflects your openness to life's gifts.",
+      "Your ability to experience such profound joy is a remarkable gift.",
+      "These peak moments become anchors that sustain you through any challenge.",
+      "Your heart's capacity for deep happiness reveals your emotional richness.",
+      "This exceptional joy speaks to your ability to fully embrace life's offerings."
+    ]
+  },
+  "prompts": {
+    "veryNegative": [
+      "What's one tiny thing that might bring you comfort right now?",
+      "Is there someone you could reach out to for support?",
+      "What has helped you through difficult times in the past?",
+      "What would you say to a friend feeling this way?",
+      "Can you think of one small action to care for yourself today?",
+      "What's the smallest step you could take toward feeling slightly better?",
+      "What would genuine compassion for yourself look like in this moment?",
+      "Is there a particular need behind this intense feeling?",
+      "What would it mean to be gentle with yourself through this experience?",
+      "What's one thing you could let go of to lighten your emotional load?"
+    ],
+    "negative": [
+      "What's one small bright spot in your day, despite the challenges?",
+      "What strength are you developing through this difficulty?",
+      "How might this look different a week from now?",
+      "What would help you feel even slightly better right now?",
+      "Is there a lesson or insight hidden in today's challenge?",
+      "What's one aspect of this situation you can control or influence?",
+      "How are these difficult feelings trying to guide or protect you?",
+      "What would moving through this challenge with self-compassion look like?",
+      "What resources (internal or external) do you have that might help?",
+      "How might this experience be shaping your growth in ways you can't yet see?"
+    ],
+    "slightlyNegative": [
+      "What's one thing you can look forward to tomorrow?",
+      "What would shift your mood in a positive direction?",
+      "What's something you handled well today, despite feeling down?",
+      "How might you turn this small setback into an opportunity?",
+      "What's a simple pleasure you could enjoy this evening?",
+      "What's one small action that might bring more balance to your day?",
+      "Is there a perspective shift that might help you see this situation differently?",
+      "What would nurturing yourself through this minor frustration look like?",
+      "What could you learn from this slightly challenging experience?",
+      "How might you acknowledge these feelings without letting them define your day?"
+    ],
+    "neutral": [
+      "What stood out about today, even if it seemed ordinary?",
+      "What are you curious about exploring tomorrow?",
+      "Was there a moment today that made you smile?",
+      "What's one thing you're grateful for today?",
+      "What would make tomorrow even better than today?",
+      "What patterns do you notice in your days lately?",
+      "Is there something you'd like to pay more attention to tomorrow?",
+      "What small change might add more meaning to your routine?",
+      "If you could add one enriching element to your day tomorrow, what would it be?",
+      "What qualities within yourself would you like to develop or strengthen?"
+    ],
+    "slightlyPositive": [
+      "What contributed to your good mood today?",
+      "How might you build on this positive energy tomorrow?",
+      "What's something you're looking forward to?",
+      "Who might you share your positive feelings with?",
+      "What small win can you celebrate today?",
+      "How could you amplify this positive feeling in the days ahead?",
+      "What does this gentle happiness tell you about what matters to you?",
+      "How might you create more moments like this in your regular routine?",
+      "What strength or quality helped create this positive experience?",
+      "What would it look like to nurture this budding positivity?"
+    ],
+    "positive": [
+      "How can you carry this positive energy into tomorrow?",
+      "Who helped create this positive experience for you?",
+      "What personal strengths contributed to this good day?",
+      "How will you celebrate this success or happy moment?",
+      "What does this positive experience tell you about what you value?",
+      "How might you extend or replicate these good feelings in the future?",
+      "What can you learn from today about creating more happiness in your life?",
+      "How might you use this positive energy to lift someone else up?",
+      "What patterns can you identify that contribute to your happiest days?",
+      "What aspects of today would you like to remember when times are harder?"
+    ],
+    "veryPositive": [
+      "How can you savor this exceptional moment a little longer?",
+      "What made this experience so special or meaningful?",
+      "Who would you like to share this joy with?",
+      "What does this peak experience reveal about what brings you true happiness?",
+      "How might you create more moments like this in the future?",
+      "What part of this extraordinary experience would you like to capture forever?",
+      "How does this exceptional joy connect to your deepest values or purpose?",
+      "What conditions came together to create this peak moment in your life?",
+      "If you could bottle this feeling, what would you label it?",
+      "How might this experience shape your priorities or goals going forward?"
+    ]
+  }
+} 

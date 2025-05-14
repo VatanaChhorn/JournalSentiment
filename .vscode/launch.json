@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:journal-sentiment}",
+            "name": "Debug Example",
+            "program": "${workspaceFolder:journal-sentiment}/.build/debug/Example",
+            "preLaunchTask": "swift: Build Debug Example"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:journal-sentiment}",
+            "name": "Release Example",
+            "program": "${workspaceFolder:journal-sentiment}/.build/release/Example",
+            "preLaunchTask": "swift: Build Release Example"
+        }
+    ]
+}
